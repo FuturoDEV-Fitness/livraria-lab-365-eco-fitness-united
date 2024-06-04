@@ -1,14 +1,20 @@
-class AutorCrud{
+const fs = require("fs");
 
+class AutorCrud {
+  constructor() {
+    this.filePath = "./src/files/autores.json";
+  }
 
-    constructor() {
-        this.filePath = './src/files/autores.json';
-    }
+  criar(autor) {
+    
 
-criar(autor){
-    console.log(autor)
+    fs.writeFileSync(
+        this.filePath,
+        JSON.stringify({nome: 'teste'}),
+        'utf-8'
+
+    )
+  }
 }
 
-}
-
-module.exports = AutorCrud
+module.exports = AutorCrud;

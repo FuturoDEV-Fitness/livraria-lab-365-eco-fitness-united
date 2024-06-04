@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "isbn": "798",
+    "titulo": "feio",
+    "qtdPaginas": 0,
+    "genero": "gyfagyfa",
+    "autor": "popopopo",
+    "formato": "audio livro"
+  }
+]

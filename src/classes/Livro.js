@@ -32,7 +32,7 @@ get getQtdPaginas(){
     return this.#qtdPaginas
 }
 
-set setQtdPaginas(qtdPaginas){
+set setQtdPaginas(isbn){
     this.#isbn = isbn
 }
 
