@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "codigo": "f5ee9a66-0798-4cb5-b228-3db87e6f2318",
+    "nome": "amem",
+    "quantidadeDePaginas": "amem",
+    "genero": "amem",
+    "autor": "amem"
+  },
+  {
+    "codigo": "4f7c7cd8-4996-45c9-870c-1a8718ebb65f",
+    "nome": "a saga",
+    "quantidadeDePaginas": "345",
+    "genero": "acao",
+    "autor": "joao"
+  }
+]
