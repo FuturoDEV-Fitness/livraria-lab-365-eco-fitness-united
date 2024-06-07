@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "codigo": "ba68a7ff-7a13-4046-9404-c31e0e140924",
+    "nome": "auditorio 2",
+    "descricao": "descrição 2",
+    "quantidadeDePessoasSuportadas": 33
+  },
+  {
+    "codigo": "bfe4ae44-999a-48e6-8564-92703f68bf61",
+    "nome": "auditorio 3",
+    "descricao": "descrição 3",
+    "quantidadeDePessoasSuportadas": 44
+  },
+  {
+    "codigo": "c0e0c8c9-7f65-455a-8ae0-05d58a75ac73",
+    "nome": "auditorio Camaradas",
+    "descricao": "descrição 4",
+    "quantidadeDePessoasSuportadas": 400
+  }
+]
